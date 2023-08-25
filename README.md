@@ -1,1 +1,2 @@
 # odin-recipes
+First HTML project on The Odin Project to test basic HTML knowledge, where we create simple HTML containing three food recipes. Should check this out for a delicious famous indonesian cuisine!
